@@ -54,7 +54,7 @@ Solution : [[ ASS3Q1.asm ](https://github.com/UNKN0WN006/assembly-language-pr0gr
 
 2. Write an Assembly Language Program to find the largest number from a series of 7 sixteen-bit numbers stored from DS: 0030H. Store the largest number in DS: 0040H.
 
-Solution : [[ ASS3Q2.asm ]
+Solution : [[ ASS3Q2.asm ](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/9306e0669fbed1982df58d9e07de1a311285847d/ASS3Q2.asm)]
 
 3. Write an Assembly Language Program to arrange a series of 7 data bytes stored from DS: 0030H in ascending order.
 
