@@ -2,25 +2,47 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Write an Assembly Language Program to add two sixteen-bit numbers. The numbers are stored in DS: 0030H and DS: 0040H. Store the result in DS: 0050H, DS: 0051H, and DS: 0052H.
 
-2. Write an Assembly Language Program to subtract an 8-bit numbers stored in DS: 0030H from a number stored in DS: 0040H using 2’s complement method. Store the result in DS: 0050H, and DS: 0051H.soln
+Soluton : [ASS1Q1.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p1.asm)
 
-3. Write a program to transfer a block of 8 data bytes from memory location DS: 0030H to DS: 0040H.soln
+2. Write an Assembly Language Program to subtract an 8-bit numbers stored in DS: 0030H from a number stored in DS: 0040H using 2’s complement method. Store the result in DS: 0050H, and DS: 0051H.
 
-4. Write an 8086 Assembly Language Program for the addition of 7 eight-bit numbers stored from DS: 0030H. Store the result in DS: 0050H and DS: 0051H.soln
+Solution : [ASS1Q2.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p2.asm)
 
-5. Write an 8086 Assembly Language Program for the addition of 5 sixteen-bit numbers stored from DS: 0030H. Store the result in DS: 0050H, DS: 0051H, DS: 0052H.soln
+3. Write a program to transfer a block of 8 data bytes from memory location DS: 0030H to DS: 0040H.
+
+Solution : [ASS1Q3.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p3.asm)
+
+4. Write an 8086 Assembly Language Program for the addition of 7 eight-bit numbers stored from DS: 0030H. Store the result in DS: 0050H and DS: 0051H.
+
+Solution : [ASS1Q4.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p4.asm)
+
+5. Write an 8086 Assembly Language Program for the addition of 5 sixteen-bit numbers stored from DS: 0030H. Store the result in DS: 0050H, DS: 0051H, DS: 0052H.
+
+Solution : [ASS1Q5.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p5.asm)
 
 6. Write an Assembly Language Program for the addition of five BCD numbers stored from DS: 0030H. Store the result in DS: 0040H and DS: 0041H.
 
+Solution : [ASS1Q6.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p6.asm)
+
 7. Write an Assembly Language Program to subtract a BCD number stored in DS: 0040H from a BCD number stored in DS: 0050H. Store the result in DS: 0060H and DS: 0061H.
+
+Solution : [ASS1Q7.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p7.asm)
 
 8. Write an Assembly Language Program to multiply two eight bit number stored in DS: 0040H and DS: 0050H. Store the result from DS: 0060H.
 
+Solution : [ASS1Q8.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p8.asm)
+
 9. Write an Assembly Language Program to multiply two sixteen bit number stored in DS:0040H and DS:0050H. Store the result from DS: 0060H.
+
+Solution : [ASS1Q9.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p9.asm)
 
 10. Write an Assembly Language Program to divide 88H by 33H. Store the quotient in DS: 0060H and remainder in DS: 0061H.
 
+Solution : [ASS1Q10.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p10.asm)
+
 11. Write an Assembly Language Program to divide 2222H by 55H. Store the quotient from DS: 0060H and remainder in DS: 0062H.
+
+Solution : [ASS1Q11.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/3f3d281c64c71da43cc3a8a8d38f3fb8e3e89875/p11.asm)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
