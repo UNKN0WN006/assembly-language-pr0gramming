@@ -66,7 +66,7 @@ Solution : [ ASS3Q4.asm ](https://github.com/UNKN0WN006/assembly-language-pr0gra
 
 5. Write an Assembly Language program to find the square of a number stored in DS: 0030H using LOOK-UP table. Assume that the LOOK-UP table is stored from DS: 0040H that contains the square of the numbers 0 to 9. Store the square value in DS: 0050H.
 
-Solution : [ ASS3Q1.asm ](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/76c3e4c9f781643cac175516319aa6d7a365af9c/ASS3Q5.asm)
+Solution : [ ASS3Q5.asm ](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/76c3e4c9f781643cac175516319aa6d7a365af9c/ASS3Q5.asm)
 
 |Address|Values|
 |----|----|
