@@ -1,6 +1,6 @@
 # Assignment 1
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Write an Assembly Language Program to add two sixteen-bit numbers. The numbers are stored in DS: 0030H and DS: 0040H. Store the result in DS: 0050H, DS: 0051H, and DS: 0052H.soln
+1. Write an Assembly Language Program to add two sixteen-bit numbers. The numbers are stored in DS: 0030H and DS: 0040H. Store the result in DS: 0050H, DS: 0051H, and DS: 0052H.
 
 2. Write an Assembly Language Program to subtract an 8-bit numbers stored in DS: 0030H from a number stored in DS: 0040H using 2’s complement method. Store the result in DS: 0050H, and DS: 0051H.soln
 
@@ -50,13 +50,23 @@ Fibonacci series is defined as:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Write an Assembly Language Program to find the smallest number from a series of seven data bytes stored from DS: 0030H. Store the smallest number in DS: 0040H.
 
+Solution : [ASS3Q1.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/a8e459dde72cef97fae2574a163fd6f082eef7df/ASS3Q1.asm)
+
 2. Write an Assembly Language Program to find the largest number from a series of 7 sixteen-bit numbers stored from DS: 0030H. Store the largest number in DS: 0040H.
+
+Solution : [ASS3Q2.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/a8e459dde72cef97fae2574a163fd6f082eef7df/ASS3Q2.asm)
 
 3. Write an Assembly Language Program to arrange a series of 7 data bytes stored from DS: 0030H in ascending order.
 
+Solution : [ASS3Q3.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/a8e459dde72cef97fae2574a163fd6f082eef7df/ASS3Q3.asm)
+
 4. Write an Assembly Language Program to arrange a series of 7 sixteen-bits data stored from DS: 0030H in descending order.
 
+Solution : [ASS3Q4.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/a8e459dde72cef97fae2574a163fd6f082eef7df/ASS3Q4.asm)
+
 5. Write an Assembly Language program to find the square of a number stored in DS: 0030H using LOOK-UP table. Assume that the LOOK-UP table is stored from DS: 0040H that contains the square of the numbers 0 to 9. Store the square value in DS: 0050H.
+
+Solution : [ASS3Q5.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramming/blob/a8e459dde72cef97fae2574a163fd6f082eef7df/ASS3Q5.asm)
 
 |Address|Values|
 |----|----|
