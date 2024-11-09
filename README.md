@@ -50,6 +50,8 @@ Fibonacci series is defined as:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Write an Assembly Language Program to find the smallest number from a series of seven data bytes stored from DS: 0030H. Store the smallest number in DS: 0040H.
 
+Solution : [ ASS3Q1.asm ]
+
 2. Write an Assembly Language Program to find the largest number from a series of 7 sixteen-bit numbers stored from DS: 0030H. Store the largest number in DS: 0040H.
 
 3. Write an Assembly Language Program to arrange a series of 7 data bytes stored from DS: 0030H in ascending order.
