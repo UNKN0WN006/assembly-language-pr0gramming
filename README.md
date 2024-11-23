@@ -102,3 +102,28 @@ Solution : [ASS3Q5.ASM](https://github.com/UNKN0WN006/assembly-language-pr0gramm
 |DS:0107H |49|
 |DS:0108H |64|
 |DS:0109H |81|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Assignment 4
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Write an Assembly Language Program to add 3 X 3 matrices. Assume the matrices are stored in the form of lists (row wise). First matrix is stored from DS:0030H and the second matrix is stored from DS:0040.Store the result of the addition in the third lists starting from DS:0050H.
+
+Solution: 
+
+2. Write an Assembly Language Program to convert an eight bit binary number stored in DS:0030H into its equivalent BCD number. Stored the result in DS:0040H.
+
+Solution:
+
+3. Write an Assembly program to convert a BCD number stored in DS:0030H into its equivalent hexadecimal number. Stored the result in DS:0040H.
+
+Solution:
+
+4. Write an Assembly program to convert a binary number stored in DS:0030H into its equivalent gray code. Stored the result in DS:0040H.
+
+Solution: 
+
+5. Write an Assembly program to find the factorial of a number stored in DS:0030H. Stored the result in DS:0040H.
+
+Solution:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
